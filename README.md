@@ -1,3 +1,3 @@
-# Análise de dados com NumPy e Matplotlib
+# Analisando dados com NumPy e Matplotlib
 
 Exercícios para estudos
