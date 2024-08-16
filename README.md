@@ -1,2 +1,1 @@
-# analise-de-dados
-Iniciando com NumPy e Matplotlib
+# Análise de dados com NumPy e Matplotlib
